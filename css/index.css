@@ -1,0 +1,9 @@
+.headers { 
+    color: #9494ff;
+}
+.text {
+    color: orange;
+}
+.headers.text {
+    background-color: rebeccapurple;
+}
