@@ -1,9 +1,18 @@
-.headers { 
-    color: #9494ff;
+h1 {
+    text-align: center; font-weight: 700; font-family: Verdana, Arial, sans-serif;
 }
-.text {
-    color: orange;
+
+body ul {
+    text-align: center; 
+    font-family: Verdana, Arial, sans-serif;
+    list-style: none;
+    padding-left: 0;
 }
-.headers.text {
-    background-color: rebeccapurple;
+
+#img {
+    display:block;
+    margin: 0 auto;
+    text-align: center;
+    width: 200px;
+    height: 200px;
 }
