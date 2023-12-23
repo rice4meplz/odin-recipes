@@ -16,3 +16,16 @@ body ul {
     width: 200px;
     height: 200px;
 }
+ul div {
+    margin: 0px auto;
+    padding: 4px;
+}
+.beef button{
+   border: 2px solid brown
+}
+.egg button {
+    border: 2px solid yellow
+}
+.jalapenos button {
+    border: 2px solid green
+}
